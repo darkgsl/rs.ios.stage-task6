@@ -18,7 +18,7 @@ class CoronaClass {
     
     if seats.isEmpty {
       seats.append(0)
-      print("add aeat ->   \(seats)")
+     // print("add aeat ->   \(seats)")
       return 0
     }
     // не проходит, если даляем первый элемент
